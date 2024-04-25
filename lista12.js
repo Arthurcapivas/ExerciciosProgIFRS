@@ -11,7 +11,7 @@ sexo = entradaNode.question("Digite seu sexo (M para masculino e F para feminino
 altura = parseFloat(entradaNode.question("Digite sua altura: "))
 peso = parseFloat(entradaNode.question("Digite seu peso: "))
 
-//if(SE), else if(senão se) e else(outro) | Professor não ensinou, se alguém souber um método de fazer sem usar eles avisar por favor.
+//if(SE), else if(senão) e else(outro) | Professor não ensinou, se alguém souber um método de fazer sem usar eles avisar por favor.
 if(sexo.toUpperCase() === 'M') { //toUpperCase - Converte todos os caracteres alfabéticos de uma string em letras maiúsculas.
     pesoideal = 72.7 * altura - 58
 } else if (sexo.toUpperCase() === 'F') {
