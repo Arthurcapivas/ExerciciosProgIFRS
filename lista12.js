@@ -28,3 +28,5 @@ if (peso === pesoideal) {
 } else {
     console.log("Você está acima do peso ideal")
 }
+
+//https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/if...else
