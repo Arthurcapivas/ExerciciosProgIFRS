@@ -8,7 +8,7 @@ var pesoideal = ""
 
 //perguntas
 sexo = entradaNode.question("Digite seu sexo (M para masculino e F para feminino): ") 
-altura = parseFloat(entradaNode.question("Digite sua altura: "))
+altura = parseFloat(entradaNode.question("Digite sua altura: ")) 
 peso = parseFloat(entradaNode.question("Digite seu peso: "))
 
 //Fiz este modelo para testar operadores condicionais ternarios. 
